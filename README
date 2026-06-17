@@ -1,0 +1,14 @@
+# Python Network Exposure & Security Analysis Tool
+
+A final year cybersecurity project that scans authorised IP addresses for common TCP ports, identifies open services, explains potential exposure risks, calculates an exposure score, and saves results as a JSON report.
+
+## Features
+- IPv4 validation
+- Common TCP port scanning
+- Banner grabbing
+- Risk analysis
+- Exposure score
+- JSON report generation
+
+## Ethical Notice
+Only scan systems you own or have permission to test.
